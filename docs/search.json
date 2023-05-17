@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bianca Berron",
+    "section": "",
+    "text": "My name is Bianca Berron and I’m a second year Environmental Studies (B.S) student at UCSB! Some of my involvements on campus include being on the UCSB Surf Team, Environmental Affairs Board, and the Gaucho Tour Association."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Bianca Berron",
+    "section": "Education",
+    "text": "Education\nB.S in Environmental Studies (June 2025)\nUniversity of California Santa Barbara"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
