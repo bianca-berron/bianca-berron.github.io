@@ -9,10 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Writing 2 Portfolio.qmd
 
 format:
   html:
-    theme: minty
+    theme: sandstone
     css: styles.css
     toc: true
     page-layout: full
