@@ -26,5 +26,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\nIn this site you can find some of my proudest work I have completed during my time here at UCSB so far. Each page on this website leads to a different project I have completed over the past two years at UCSB."
+  },
+  {
+    "objectID": "coding_progress.html",
+    "href": "coding_progress.html",
+    "title": "Coding Progress",
+    "section": "",
+    "text": "Throughout my ENVS 193DS course (which I am taking right now), an environmental data science class, I have learned how to code using RStudio.\n\nThe process of coding has been difficult, however, I feel as though I have made significant progress, particularly in creating data visualizations. Below are some of the data visualizations I have created in chronological order, from the first visualization I created to my most recent.\n\n\n\n\nThis figure is my most recent data visualization and portrays how ice duration of lakes is decreasing over time."
   }
 ]
