@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - Writing 2 Portfolio.qmd
+      - Surfing.qmd
       - coding_progress.qmd
     page-footer:
       background: light
