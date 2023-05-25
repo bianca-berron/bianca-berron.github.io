@@ -2,6 +2,17 @@
 title: "About"
 ---
 
-About this site
+About this site!
 
-In this site you can find some of my proudest work I have completed during my time here at UCSB so far. Each page on this website leads to a different project I have completed over the past two years at UCSB. 
+In this site you can explore one of my most favorite hobbies, surfing, as well as some of the work I have done for my coding class. In this website, I wanted to emphasize my schoolwork AND my life out of school, both of which I am proud of. 
+
+
+![hobbies!](surfxtidyverse.png)
+
+
+
+
+
+
+
+
