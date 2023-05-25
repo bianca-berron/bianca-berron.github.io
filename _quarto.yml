@@ -20,8 +20,8 @@ website:
 
 format:
   html:
-    theme: sandstone
-      - mystyles.scss
+    theme: 
+      - sandstone.scss
     mainfont: Playfair
     css: styles.css
     toc: true

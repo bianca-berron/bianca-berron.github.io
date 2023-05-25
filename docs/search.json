@@ -7,6 +7,13 @@
     "text": "Last spring, I took a writing class in which we were to develop a writing portfolio containing all of the papers we had written in the class.\n\nI spent hours investing time into this class, and seeing all of my hard work presented in a portfolio via an online website seemed to be the most fitting.\n\nBelow is a link to my Writing 2 Portfolio:"
   },
   {
+    "objectID": "mystyles.scss.html",
+    "href": "mystyles.scss.html",
+    "title": "mystyles.scss",
+    "section": "",
+    "text": "touch mystyles.scss /– scss:defaults –/\n// Fonts @import url(‘https://fonts.googleapis.com/css2?family=Playfair:wght@300&display=swap’);\n// Colors $light-sage-green: #D1D9CE; $dark-sage-green: #98A08D; $cream: #FDFBF7; $gray: #64605f; $light-gray: #949799; $purple: #AE8BD1;\n// Base document colors $navbar-bg: $cream; // navbar $navbar-fg: $dark-sage-green; // navbar foreground elements $navbar-hl: $purple; // highlight color when hovering over navbar links $body-bg: $light-sage-green; // page background $body-color: $gray; // page text $footer-bg: $cream; // footer $link-color: $purple; // hyperlinks\n// Inline code $code-bg: $cream; // inline code background color $code-color: $purple; // inline code text color\n// Code blocks $code-block-bg: $cream; // code block background color"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Bianca Berron",
